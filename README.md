@@ -1,3 +1,5 @@
+[![Java CI with Maven](https://github.com/drkarl/univocity-trader/actions/workflows/maven.yml/badge.svg)](https://github.com/drkarl/univocity-trader/actions/workflows/maven.yml)
+
 Welcome to univocity-trader
 ============================
 
