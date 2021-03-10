@@ -44,6 +44,7 @@ public class FileBasedSimulation {
 		}
 	}
 
+	@Ignore
 	@Test
 	public void testFileBasedSimulation() {
 
